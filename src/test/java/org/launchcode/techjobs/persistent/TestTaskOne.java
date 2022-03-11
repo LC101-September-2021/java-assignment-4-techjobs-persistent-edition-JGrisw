@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
  * Created by LaunchCode
  */
 public class TestTaskOne extends AbstractTest{
-
+    //All Passing!
     /*
     * Check application.properties for the correct db connection data
     * */
