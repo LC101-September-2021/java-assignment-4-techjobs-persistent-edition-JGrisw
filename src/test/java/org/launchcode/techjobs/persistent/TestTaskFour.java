@@ -30,7 +30,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * Created by LaunchCode
  */
 public class TestTaskFour extends AbstractTest {
-
+    //All Passing
     /*
     * Verifies that Skill.jobs exists
     * */
